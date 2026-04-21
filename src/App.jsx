@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>Vite + React</h1>
+      <h1>Hello francisco Jose</h1>
       <div className="card">
         <button type="button" onClick={() => setCount((c) => c + 1)}>
           count is {count}
